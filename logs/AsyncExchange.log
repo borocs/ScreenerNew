@@ -1,0 +1,61 @@
+2025-05-06 23:40:12,781 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'OP/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '196.0', 'tpTriggerPx': '0.600699', 'tpOrdPx': '-1', 'slTriggerPx': '0.5953035', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-06 23:40:13,258 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for OP/USDT:USDT, response: None
+2025-05-06 23:40:14,994 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'APT/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '20.0', 'tpTriggerPx': '4.671324', 'tpOrdPx': '-1', 'slTriggerPx': '4.629366', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-06 23:40:15,328 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for APT/USDT:USDT, response: None
+2025-05-06 23:44:15,052 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'INJ/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '8.0', 'tpTriggerPx': '9.055074', 'tpOrdPx': '-1', 'slTriggerPx': '8.973741', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-06 23:44:15,583 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for INJ/USDT:USDT, response: None
+2025-05-06 23:44:17,260 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'LINK/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '5.0', 'tpTriggerPx': '13.514976', 'tpOrdPx': '-1', 'slTriggerPx': '13.393584', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-06 23:44:17,641 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for LINK/USDT:USDT, response: None
+2025-05-06 23:45:28,943 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'OP/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '201.0', 'tpTriggerPx': '0.6010998', 'tpOrdPx': '-1', 'slTriggerPx': '0.5957007', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-06 23:45:29,284 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for OP/USDT:USDT, response: None
+2025-05-06 23:45:33,542 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'LINK/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '7.0', 'tpTriggerPx': '13.53702', 'tpOrdPx': '-1', 'slTriggerPx': '13.41543', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-06 23:45:33,934 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for LINK/USDT:USDT, response: None
+2025-05-06 23:45:35,678 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'TIA/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '32.0', 'tpTriggerPx': '2.340672', 'tpOrdPx': '-1', 'slTriggerPx': '2.319648', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-06 23:45:36,075 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for TIA/USDT:USDT, response: None
+2025-05-06 23:45:37,815 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'SUI/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '19.0', 'tpTriggerPx': '3.1805484', 'tpOrdPx': '-1', 'slTriggerPx': '3.1519806', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-06 23:45:38,164 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for SUI/USDT:USDT, response: None
+2025-05-06 23:45:39,816 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'STRK/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '391.0', 'tpTriggerPx': '0.1258512', 'tpOrdPx': '-1', 'slTriggerPx': '0.1247208', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-06 23:45:40,170 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for STRK/USDT:USDT, response: None
+2025-05-07 01:46:29,963 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'TIA/USDT:USDT', 'tdMode': 'isolated', 'side': 'buy', 'ordType': 'oco', 'sz': '41.0', 'tpTriggerPx': '2.366258', 'tpOrdPx': '-1', 'slTriggerPx': '2.387597', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 01:46:30,338 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for TIA/USDT:USDT, response: None
+2025-05-07 01:47:00,627 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'TIA/USDT:USDT', 'tdMode': 'isolated', 'side': 'buy', 'ordType': 'oco', 'sz': '41.0', 'tpTriggerPx': '2.361268', 'tpOrdPx': '-1', 'slTriggerPx': '2.382562', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 01:47:01,091 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for TIA/USDT:USDT, response: None
+2025-05-07 01:48:35,775 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'LINK/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '5.0', 'tpTriggerPx': '13.730406', 'tpOrdPx': '-1', 'slTriggerPx': '13.607079', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 01:48:36,224 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for LINK/USDT:USDT, response: None
+2025-05-07 01:50:52,427 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'LINK/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '5.0', 'tpTriggerPx': '13.750446', 'tpOrdPx': '-1', 'slTriggerPx': '13.626939', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 01:50:52,778 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for LINK/USDT:USDT, response: None
+2025-05-07 01:58:34,567 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'STRK/USDT:USDT', 'tdMode': 'isolated', 'side': 'buy', 'ordType': 'oco', 'sz': '614.0', 'tpTriggerPx': '0.1300394', 'tpOrdPx': '-1', 'slTriggerPx': '0.1312121', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 01:58:34,975 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for STRK/USDT:USDT, response: None
+2025-05-07 02:03:41,269 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'STRK/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '782.0', 'tpTriggerPx': '0.1301598', 'tpOrdPx': '-1', 'slTriggerPx': '0.1289907', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 02:03:41,666 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for STRK/USDT:USDT, response: None
+2025-05-07 03:22:09,054 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'SUI/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '30.0', 'tpTriggerPx': '3.3704274', 'tpOrdPx': '-1', 'slTriggerPx': '3.3401541', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 03:22:09,488 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for SUI/USDT:USDT, response: None
+2025-05-07 04:00:40,203 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'TIA/USDT:USDT', 'tdMode': 'isolated', 'side': 'buy', 'ordType': 'oco', 'sz': '34.0', 'tpTriggerPx': '2.386218', 'tpOrdPx': '-1', 'slTriggerPx': '2.407737', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 04:00:40,667 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for TIA/USDT:USDT, response: None
+2025-05-07 04:26:44,638 - ERROR - [AsyncExchange] - [EXCHANGE] Error fetching total margin: okx GET https://www.okx.com/api/v5/account/balance 502 Bad Gateway <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+2025-05-07 04:54:09,579 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'INJ/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '8.0', 'tpTriggerPx': '9.44886', 'tpOrdPx': '-1', 'slTriggerPx': '9.36399', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 04:54:09,913 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for INJ/USDT:USDT, response: None
+2025-05-07 05:23:17,459 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'SOL/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '0.55', 'tpTriggerPx': '148.30602', 'tpOrdPx': '-1', 'slTriggerPx': '146.97393', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 05:23:17,791 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for SOL/USDT:USDT, response: None
+2025-05-07 05:31:13,076 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'STRK/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '491.0', 'tpTriggerPx': '0.1335666', 'tpOrdPx': '-1', 'slTriggerPx': '0.1323669', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 05:31:13,395 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for STRK/USDT:USDT, response: None
+2025-05-07 06:12:32,609 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'STRK/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '546.0', 'tpTriggerPx': '0.1310616', 'tpOrdPx': '-1', 'slTriggerPx': '0.1298844', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 06:12:32,923 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for STRK/USDT:USDT, response: None
+2025-05-07 06:35:44,584 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'SOL/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '0.49', 'tpTriggerPx': '146.30202', 'tpOrdPx': '-1', 'slTriggerPx': '144.98793', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 06:35:44,901 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for SOL/USDT:USDT, response: None
+2025-05-07 07:04:53,469 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'STRK/USDT:USDT', 'tdMode': 'isolated', 'side': 'buy', 'ordType': 'oco', 'sz': '556.0', 'tpTriggerPx': '0.1321352', 'tpOrdPx': '-1', 'slTriggerPx': '0.1333268', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 07:04:53,787 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for STRK/USDT:USDT, response: None
+2025-05-07 07:32:00,349 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'OP/USDT:USDT', 'tdMode': 'isolated', 'side': 'buy', 'ordType': 'oco', 'sz': '122.0', 'tpTriggerPx': '0.6066842', 'tpOrdPx': '-1', 'slTriggerPx': '0.6121553', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 07:32:00,678 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for OP/USDT:USDT, response: None
+2025-05-07 07:53:09,953 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'INJ/USDT:USDT', 'tdMode': 'isolated', 'side': 'buy', 'ordType': 'oco', 'sz': '7.0', 'tpTriggerPx': '9.29637', 'tpOrdPx': '-1', 'slTriggerPx': '9.380205', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 07:53:10,266 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for INJ/USDT:USDT, response: None
+2025-05-07 09:36:50,343 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'INJ/USDT:USDT', 'tdMode': 'isolated', 'side': 'buy', 'ordType': 'oco', 'sz': '8.0', 'tpTriggerPx': '9.244474', 'tpOrdPx': '-1', 'slTriggerPx': '9.327841', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 09:36:50,676 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for INJ/USDT:USDT, response: None
+2025-05-07 09:49:45,440 - INFO - [AsyncExchange] - [EXCHANGE] Placing OCO order: {'instId': 'OP/USDT:USDT', 'tdMode': 'isolated', 'side': 'sell', 'ordType': 'oco', 'sz': '129.0', 'tpTriggerPx': '0.6004986', 'tpOrdPx': '-1', 'slTriggerPx': '0.5951049', 'slOrdPx': '-1', 'reduceOnly': True}
+2025-05-07 09:49:45,759 - ERROR - [AsyncExchange] - [EXCHANGE] Failed to place OCO for OP/USDT:USDT, response: None
