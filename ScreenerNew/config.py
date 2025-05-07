@@ -2,9 +2,9 @@ import logging
 import os
 
 # API ключи для OKX (реальний API)
-API_KEY = "daab8f9b-5470-4419-a0b1-1e0a845108b3"
-SECRET = "5586EAE4FF88B4308D191B4DA6CFD31F"
-PASSWORD = "234ghhhuZ!"
+API_KEY = "API"
+SECRET = "Secret"
+PASSWORD = "Pass"
 
 # Список пар для торгівлі
 PAIRS = [
